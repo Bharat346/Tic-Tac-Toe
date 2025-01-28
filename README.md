@@ -4,6 +4,11 @@
 **Technologies:** React.js, JavaScript, CSS  
 **License:** MIT License
 
+**Visit Web-Page**:
+  ```bash
+    https://bharat346.github.io/Tic-Tac-Toe/
+  ```
+
 A fully functional Tic-Tac-Toe game built with React.js. This game includes multiple features such as two-player mode (Friend Mode), AI mode (Computer Mode), sound effects, and a dynamic result display.
 
 ## Table of Contents
@@ -42,4 +47,4 @@ To run the game locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/Bharat346/Tic-Tac-Toe.git
